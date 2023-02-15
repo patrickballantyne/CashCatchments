@@ -13,8 +13,6 @@ A couple of extra considerations are needed:
 
 Code is available [HERE](https://github.com/patrickballantyne/CashCatchments/blob/main/Code/Code.R). 
 
-## Catchments
+## What do the catchments look like?
 
-What do they look like?
-
-
+![Lark Lane Cash Catchment](map.jpg)
